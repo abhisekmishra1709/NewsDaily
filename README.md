@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# NewsDaily - Get your daily dose of news for free!
+
+[Click here to see it live.](https://youtu.be/3MSJu9YkEXc)
+
+NewsDaily is a news app which can be used to grab quick daily news bites. If you are interested in news, weather, politics and sports news, NewsDaily is for you!
+
+NewsDaily is an API based project that run as a service in your browser and fetches current date's news from 'https://newsapi.org/' and sort
+them based on what the user wants to see.
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
